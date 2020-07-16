@@ -99,6 +99,7 @@ a heart icon)"
 			(hint: don't change exisiting code, add new code)
 	best - don't hardcode in the class name, make it a variable.
 -BC 
+appended the favlist class i made to the <li> so it should by defuault add it to ur favorites when submiutting new order- et
 #################################################*/	
 
 	
@@ -118,6 +119,8 @@ being added to the list so they don't buy them twice."
 		but with different capitalization. Don't let them add "honey" "Honey"
 		"HONEY" (treat those as all the same)
 -BC 
+
+i believe I got this working for you i am not to sure // struggled with this one - et
 #################################################*/		
 	
 	
